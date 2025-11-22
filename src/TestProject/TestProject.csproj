@@ -93,11 +93,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
+  <!-- <ItemGroup>
     <ProjectReference Include="..\NPilotHUD\NPilotHUD.csproj">
       <Project>{68fc25cb-881e-4703-bdb3-6782af0c27fe}</Project>
       <Name>NPilotHUD</Name>
     </ProjectReference>
   </ItemGroup>
-  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" /> -->
 </Project>
